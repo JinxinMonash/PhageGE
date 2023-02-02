@@ -1,6 +1,4 @@
 # PhageGE
 Phage Genome Exploration
 
-Phage phylogenetic analysis 
-
-all the test phage genomic fasta files are in the Example dataset/phylogenetic analysis
+All the example datases are under the Example dataset folder
