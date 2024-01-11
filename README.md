@@ -1,5 +1,4 @@
-![image](https://github.com/JinxinMonash/PhageGE/assets/24647078/12dac562-d84f-4b24-8d25-aaec4a37bb40)PhageGE
-Phage Genome Exploration
+PhageGE Phage Genome Exploration
 ![PhageGE](https://github.com/JinxinMonash/PhageGE/assets/24647078/4a8c5189-7650-4755-8a2d-81ca4a7d875f)
 
 
